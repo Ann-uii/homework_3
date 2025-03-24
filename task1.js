@@ -5,3 +5,6 @@
 
 // Завдання виділене вставкою Task1
 
+$("h2.head").css("background-color", "green");
+$("h2>span.inner").css("font-size", "35px");
+
